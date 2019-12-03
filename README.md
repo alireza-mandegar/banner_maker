@@ -1,4 +1,5 @@
 # banner_maker
+version 1.2:: whith slant font!
 you can make your own banner for your codes to comment it! ;)
 
 for work with this file do these:
