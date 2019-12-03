@@ -7,7 +7,7 @@ def bannermaker():
     colorama.init()
     print(f"{color}{part1}{reset}")
 
-#font = Figlet(font="graffiti")
+#font = Figlet(font="slant")
 #part1 = font.renderText(str(input("[*]Enter Your Charachters > ")))
 #color = colorama.Fore.LIGHTMAGENTA_EX
 #reset = colorama.Fore.RESET
